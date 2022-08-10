@@ -2653,19 +2653,19 @@ case 'assalamualaikum': {
 	}
 	break
 case 'donasi': case 'donate': {
-                hisoka.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/88rmZ0d/Qris.jpg' }, caption: `Silahkan Scan Kode QR Diatas Untuk Donasi` }, { quoted: m })
+                hisoka.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/BVXy28J/IMG-20220809-WA0052.jpg' }, caption: `Silahkan Scan Kode QR Diatas Untuk Donasi` }, { quoted: m })
             }
             break
 case 'gopay': {
-                hisoka.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/88rmZ0d/Qris.jpg' }, caption: `GOPAY` }, { quoted: m })
+                hisoka.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/BVXy28J/IMG-20220809-WA0052.jpg' }, caption: `GOPAY` }, { quoted: m })
             }
             break
 case 'dana': {
-                hisoka.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/88rmZ0d/Qris.jpg' }, caption: `DANA` }, { quoted: m })
+                hisoka.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/BVXy28J/IMG-20220809-WA0052.jpg' }, caption: `DANA` }, { quoted: m })
             }
             break
 case 'qris': {
-                hisoka.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/88rmZ0d/Qris.jpg' }, caption: `QRIS ALL PAYMENT` }, { quoted: m })
+                hisoka.sendMessage(m.chat, { image: { url: 'https://i.ibb.co/BVXy28J/IMG-20220809-WA0052.jpg' }, caption: `QRIS ALL PAYMENT` }, { quoted: m })
             }
             break
 case 'api': case 'apikey': {
